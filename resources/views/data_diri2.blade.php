@@ -7,7 +7,7 @@
     </head>
     <body>
    <center>
-   <h1> SELAMAT DATANG DI HALAMAN DATA DIRI</h1><br>
+   <h1> SELAMAT DATANG DI HALAMAN DATA DIRI 2</h1><br>
    <center>
    <table>
    <tr>
@@ -15,33 +15,33 @@
    </tr>
 
    <tr>
-   <td>NAMA</td>
+   <td>Nama</td>
    <td>:</td>
-   <td>{{$nama}}</td>
+   <td>{{$nama2}}</td>
    </tr>
 
    <tr>
-   <td>JENIS KELAMIN</td>
+   <td>Jenis kelamin</td>
    <td>:</td>
-   <td>{{$jenis_kelamin}}</td>
+   <td>{{$jenis_kelamin2}}</td>
    </tr>
 
    <tr>
-   <td>PENDIDIKAN TERAKHIR</td>
+   <td>Pendidikan terakhir</td>
    <td>:</td>
-   <td>{{$pendidikan}}</td>
+   <td>{{$pendidikan2}}</td>
    </tr>
 
    <tr>
-   <td>PEKERJAAN</td>
+   <td>Pekerjaan</td>
    <td>:</td>
-   <td>{{$pekerjaan}}</td>
+   <td>{{$pekerjaan2}}</td>
    </tr>
    
     <tr>
-   <td>ALAMAT</td>
+   <td>Alamat</td>
    <td>:</td>
-   <td>{{$alamat}}</td>
+   <td>{{$alamat2}}</td>
    </tr>
     
     </body>
